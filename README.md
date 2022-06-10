@@ -1,6 +1,6 @@
 # Eric Ferrari Ramos
 
-Full Stack Python Student ⚡
+Full Stack JAVA Student ⚡
 
 ### Hi there 👋
 
