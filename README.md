@@ -1,4 +1,4 @@
-## Olá, me chamo Eric Ferrari Ramos ! 
+## Olá, me chamo Eric Ferrari Ramos, estudante de tecnologia! 
 ### Bem vindo ao meu perfil GitHub 👋
 
 
