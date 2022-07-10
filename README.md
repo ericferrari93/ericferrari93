@@ -1,12 +1,9 @@
 ## Olá, me chamo Eric Ferrari Ramos, estudante de tecnologia! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-
-
-<div>
 <a href="https://github.com/ericferrari93">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericferrari93&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericferrari93&layout=compact&langs_count=7&theme=prussian"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericferrari93&layout=compact&langs_count=8&theme=prussian"/>
 </div>
 
 <div style="display: inline_block"><br>
