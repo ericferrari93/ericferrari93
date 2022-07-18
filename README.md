@@ -28,8 +28,8 @@
 
 
 <div align="center">
-  <a href="https://github.com/ericferrari93/github-readme-stats"><img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=ericferrari93&show_icons=true&include_all_commits=true&theme=ocean_dark&hide_border=true" alt="Anurag's github stats" /></a>
-  <a href="https://github.com/ericferrari93/github-readme-stats"><img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericferrari93&layout=compact&langs_count=8&theme=ocean_dark&hide_border=true" /></a>
+  <a href="https://github.com/ericferrari93/github-readme-stats"><img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=ericferrari93&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Anurag's github stats" /></a>
+  <a href="https://github.com/ericferrari93/github-readme-stats"><img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericferrari93&layout=compact&langs_count=8&theme=algolia&hide_border=true" /></a>
 </div>
 
 
