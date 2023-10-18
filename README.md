@@ -29,8 +29,11 @@
 
 
 <div align="center">
-  <a href="https://github.com/ericferrari93/github-readme-stats"><img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=ericferrari93&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" /></a>
- 
+  <div>
+    <a href="https://github.com/ericferrari93">
+      <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericferrari93&layout=compact&langs_count=7&theme=blueberry"/>
+      <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ericferrari93&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
+  </div>
 </div>
 
 
